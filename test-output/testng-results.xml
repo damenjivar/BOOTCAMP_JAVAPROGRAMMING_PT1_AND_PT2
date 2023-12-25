@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-12T17:45:21 EST" name="Default suite" finished-at="2023-12-12T17:45:27 EST" duration-ms="6238">
+    <groups>
+    </groups>
+    <test started-at="2023-12-12T17:45:21 EST" name="Default test" finished-at="2023-12-12T17:45:27 EST" duration-ms="6238">
+      <class name="com.bootcamp.pt1.easy_selenium_framework.Q3_Easy_Selenium_Framework">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.bootcamp.pt1.easy_selenium_framework.Q3_Easy_Selenium_Framework@5d534f5d]" started-at="2023-12-12T17:45:21 EST" name="setUp" finished-at="2023-12-12T17:45:26 EST" duration-ms="4926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyPresenceOfElementOnNewPage()[pri:0, instance:com.bootcamp.pt1.easy_selenium_framework.Q3_Easy_Selenium_Framework@5d534f5d]" started-at="2023-12-12T17:45:26 EST" name="verifyPresenceOfElementOnNewPage" finished-at="2023-12-12T17:45:27 EST" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfElementOnNewPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bootcamp.pt1.easy_selenium_framework.Q3_Easy_Selenium_Framework@5d534f5d]" started-at="2023-12-12T17:45:27 EST" name="tearDown" finished-at="2023-12-12T17:45:27 EST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bootcamp.pt1.easy_selenium_framework.Q3_Easy_Selenium_Framework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
